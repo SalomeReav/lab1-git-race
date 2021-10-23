@@ -4,8 +4,6 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab1-git
 
 Some ideas for obtaining a :gift: if you are the first that:
 
-- **Home improvement III**: Use moder JS framework (React) and a Restful web service (no MVC server side)
-
 User name | NIA | CI |Score
 ----------|-----|----------|-----
 [UNIZAR-30246-WebEngineering](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race) |30246 | [![Build Status](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml)
@@ -40,4 +38,7 @@ User name | NIA | CI |Score
 [Sergio García-Campero Hernández](https://github.com/SergioGCH/lab1-git-race) | 721520 | [![Build Status](https://github.com/SergioGCH/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/SergioGCH/lab1-git-race/actions/workflows/ci.yml)
 [Marta Morales](https://github.com/780454-unizar/lab1-git-race)| 780454 | [![Build Status](https://github.com/780454-unizar/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/780454-unizar/lab1-git-race/actions/workflows/ci.yml)
 [Víctor Pérez Sanmartín](https://github.com/vitolo99/lab1-git-race/actions/workflows/ci.yml/badge.svg) | 764914 | [![Build Status](https://github.com/vitolo99/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/vitolo99/lab1-git-race/actions/workflows/ci.yml)
-Salomé Rea Ávila | 720162 | [![Build Status](https://github.com/SalomeReav/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/SalomeReav/lab1-git-race/actions/workflows/ci.yml)
+[Ángela Rojo Sediles](https://github.com/angela-rs/lab1-git-race)| 774335 | [![Build Status](https://github.com/angela-rs/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/angela-rs/lab1-git-race/actions/workflows/ci.yml) | **Home improvement III** :gift:
+[Hector Herrmann](https://github.com/HNHerrmann/lab1-git-race)| 646946 | [![Build Status](https://github.com/HNHerrmann/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/HNHerrmann/lab1-git-race/actions/workflows/ci.yml)| :gift:
+[Felipe Nonay](https://github.com/fnonay/lab1-git-race) | 734941 | [![Build Status](https://github.com/fnonay/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/fnonay/lab1-git-race/lab1-git-race/actions/workflows/ci.yml)
+[Salomé Rea Ávila](https://github.com/SalomeReav/lab1-git-race) | 720162 | [![Build Status](https://github.com/SalomeReav/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/SalomeReav/lab1-git-race/actions/workflows/ci.yml)
